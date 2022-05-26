@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+void f1(){
+    printf("Git Champion\n");
+}
+
 int main()
 {
     printf("Hello F-Code:\n");
